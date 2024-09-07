@@ -1,0 +1,18 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "personaltasknoteapp-f7034",
+          "configurations": {
+            "web": "1:1016438082081:web:e29836491de97d637cb160"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

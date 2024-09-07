@@ -1,0 +1,6 @@
+{
+  "homeTitle": "Home",
+  "signedOut": "Signed out",
+    "welcomeMessage": "Welcome, {email}!"
+  
+}
